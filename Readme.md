@@ -1,4 +1,4 @@
-# ElasticSearch (OpenSearch AWS)
+# ElasticSearch (OpenSearch AWS) - [coming soon]
 
 Integração C# com ElasticSearch (OpenSearch AWS)
 
